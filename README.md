@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Robbie and I'm interested in solving hard problems. I am CS graduate from London, but currently exploring to find a place to call home.
+My name is Robbie and I'm interested in solving hard problems. I am CS graduate from London, living in Whistler, BC, but currently exploring to find a place to call home.
 
 More to come...
 
