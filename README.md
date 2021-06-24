@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-My name is Robbie and I'm interested in solving hard problems. I am CS graduate from London, living in Whistler, BC, but currently exploring to find a place to call home.
+My name is Robbie and I'm interested in solving hard problems. I am CS graduate from London, living in Whistler, BC. Outside of technology I enjoy action sports and videography - [checkout my work](https://www.the-flying-englishman.com/)
 
-More to come...
+
 
 <!--
-**RobbieMurray/RobbieMurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
