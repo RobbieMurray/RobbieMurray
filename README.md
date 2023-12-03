@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Robbie and I'm interested in solving hard problems. I am CS graduate from London, living in Whistler, BC. Outside of technology I enjoy action sports and videography - [checkout my work](https://www.the-flying-englishman.com/)
+My name is Robbie and I'm interested in solving hard problems. I am CS graduate from London, living in Whistler, BC. Outside of technology I enjoy action sports and videography - [checkout my work](https://www.theflyingenglishman.com/)
 
 
 
